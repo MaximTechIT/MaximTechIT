@@ -26,6 +26,10 @@ Hello everyone, I'm Maksim Viht, a Fullstack Developer from Turkmenistan, Ashgab
 ## ⚛️ Frontend
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232a)
 
+## 💻 Backend
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 
 ## 🛠️ Build Tools & Runtime
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
