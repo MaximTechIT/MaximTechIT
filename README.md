@@ -4,9 +4,7 @@ Hello everyone, I'm Maksim Viht, a Fullstack Developer from Turkmenistan, Ashgab
 
 
 ## 🌐 Socials:
-<a href="mailto:devmaksim@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devmaksim@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/maksi_it)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Heexxdev)
 
